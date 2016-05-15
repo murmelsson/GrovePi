@@ -10,6 +10,7 @@ module.exports.GrovePi = {
       }
     , DigitalInput: require('./sensors/genericDigitalInputSensor')
     , DigitalOutput: require('./sensors/genericDigitalOutputSensor')
+    , GenericDigitalOutput2: require('./sensors/genericDigitalOutput2Sensor')
     , AccelerationI2C: require('./sensors/accelerationI2cSensor')
     , AirQualityAnalog: require('./sensors/airQualityAnalogSensor')
     , ChainableRGBLedDigital: require('./sensors/chainableRGBLedDigitalSensor')
