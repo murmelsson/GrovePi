@@ -14,9 +14,9 @@ See e.g. ./Software/NodeJS/README-murmelssonic.md of that folder.
 
 TODOs:
 
-1. Make a simpler test script, but with the more traditional HelloWorld(LED-blink) functionality
+1. Make a simpler test script, but with the more traditional HelloWorld(LED-blink) functionality. **done**
 
-2. Modify the wot-book hello-world to run using GrovePi-based libraries
+2. Modify the wot-book hello-world to run using GrovePi-based libraries **amounts to same as (1), so done**
 
 3. POC what is the minimal set of npm-ery and ad-hoc .js file includes needed to get going.
 
